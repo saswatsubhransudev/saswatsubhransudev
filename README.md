@@ -8,6 +8,10 @@
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=saswatsubhransudev&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
+<br><br>
+
+> **"I'm a software developer and cloud facilitator passionate about secure, scalable solutions and emerging technologies."**
+
 </div>
 
 <br>

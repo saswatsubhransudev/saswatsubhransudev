@@ -1,56 +1,86 @@
-<!-- GitHub Stats Badges -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saswatsubhransudev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/saswatsubhransudev?style=flat&label=Stars&color=2ea043" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/saswatsubhransudev?style=flat&label=Followers&color=2ea043" alt="Followers" />
+<div align="center">
+
+# 👨‍💻 Hi there, I'm Saswat Subhransu Singh 
+
+<!-- Dynamic Typing Animation -->
+<a href="https://github.com/saswatsubhransudev">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=800&lines=Professional+Software+Developer;Advanced+JavaScript+Specialist;Google+Cloud+Arcade+Facilitator;Pioneering+Agentic+AI+%26+Digital+Co-Workers" alt="Typing Animation" />
+</a>
+
+<p align="center">
+  <b>Architecting scalable applications | Empowering cloud communities | Building the AI-driven future</b>
 </p>
 
-### 👋 About Me
-
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-  <tr>
-    <td width="70%" style="border: none;">
-      <ul>
-        <li>My full name is <b>Saswat Subhransu Singh</b></li>
-        <li>Current Roles: <b>Professional Software Developer & Google Cloud Arcade Facilitator</b></li>
-        <li>Specialization: <b>Advanced JavaScript Development</b>, with a focus on building robust, scalable applications</li>
-        <li>Primary Interests: <b>Agentic AI, Digital Co-Workers, and AI Autonomy</b></li>
-        <li>Currently working on: <i>Architecting the Agentic ERP</i> and developing a high-fidelity replica website</li>
-        <li>My quote is <i>"It's never too late - never too late to start over, never too late to be happy"</i></li>
-      </ul>
-    </td>
-    <td width="30%" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Coder" width="120" />
-    </td>
-  </tr>
-</table>
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:saswat.co@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/saswatsubhransudev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<!-- Social Links -->
+<p align="center">
+  <a href="mailto:saswat.co@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/saswatsubhransudev">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-</p>
-
-<br>
-
-<p align="left">
-  <!-- GitHub contribution graph -->
-  <img src="https://ghchart.rshah.org/saswatsubhransudev" alt="GitHub Contribution Chart" />
-</p>
+</div>
 
 ---
 
-> 💭 *Always open to meaningful conversations, tech collaboration, and exploring new ideas in software engineering and cloud architecture.*
+### 🚀 Executive Summary
+
+I am a highly driven Software Developer specializing in **Advanced JavaScript** and cloud-native architectures. As a **Google Cloud Arcade Facilitator**, I am passionate about guiding others through complex cloud ecosystems while continuously pushing the boundaries of my own technical expertise. My current research and development intersect traditional software engineering with next-generation AI autonomy.
+
+### 🔭 What I'm Doing Right Now
+
+*   **🏗️ Engineering:** Building a high-fidelity, pixel-perfect replica website to push front-end boundaries.
+*   **🧠 Researching:** Deep diving into **Agentic AI** and the rise of Digital Co-Workers.
+*   **⚙️ Architecting:** Developing concepts around *Architecting the Agentic ERP: The 3-Tier Blueprint for AI Autonomy*.
+*   **☁️ Facilitating:** Leading and mentoring within the Google Cloud Arcade ecosystem.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+**Core Engineering**<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+<br>**Cloud & Infrastructure**<br>
+<img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+
+<br>**Version Control & Design**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+  <!-- Dynamic GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=saswatsubhransudev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&icon_color=2EA043" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatsubhransudev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9" alt="Top Languages" width="48%" />
+
+  <br><br>
+
+  <!-- GitHub Contribution Graph -->
+  <img src="https://ghchart.rshah.org/2EA043/saswatsubhransudev" alt="GitHub Contribution Chart" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+  
+> *"It's never too late - never too late to start over, never too late to be happy"*
+
+</div>
